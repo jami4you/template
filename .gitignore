@@ -1,1 +1,3 @@
 public/js/vendors
+node_modules
+.DS_Store
