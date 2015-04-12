@@ -1,12 +1,17 @@
 {
   "name": "template",
   "version": "0.0.0",
+  "homepage": "https://github.com/jami4you/template",
   "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "public/js/vendors",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
 }
